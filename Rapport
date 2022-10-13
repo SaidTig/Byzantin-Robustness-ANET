@@ -1,0 +1,2 @@
+Q1: Yes, the system seems to be self-stabilizing.
+When i move a node, it changes its color if it meets a neighbor that has a same color as it.
